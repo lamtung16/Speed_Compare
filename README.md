@@ -1,1 +1,1 @@
-# Speed_Compare
+# Comparing running time of different approaches
